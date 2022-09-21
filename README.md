@@ -1,4 +1,4 @@
-# Analysis of Charitable Organization susing Nueral Network and Deep Learning Models
+# Analysis of Charitable Organizations using Neural Network and Deep Learning Models
 ## Overview
 The purpose of this analysis was to help the non-profit organization, Alphabet Soup, to analyze what organizations are worth donating to. Alphabet Soup raises funds for charities and wants to optimize their decision making by using machine a neural network to review the history of each organization and which of them were successful in the past. A CSV file was provided containing data on a variety of charitable organizations that have received funds from Alphabet Soup in previous years. Using this data, a deep learning neural network model using the python TensorFlow library was developed. 
 
